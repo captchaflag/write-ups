@@ -19,3 +19,4 @@
 
 * [Write up by Rogdham](http://r.rogdham.net/24)
 * [Exploit in Python by @TheJH](thejh_exploit.py)
+* [Writeup by captchaflag](http://www.captchaflag.com/blog/2014/10/28/hack-dot-lu-2014-guess-the-flag/)
